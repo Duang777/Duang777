@@ -1,117 +1,125 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,38:071A2B,72:0B3D3A,100:111827&text=Duang777&fontAlign=50&fontAlignY=39&fontSize=58&fontColor=E5F9FF&animation=fadeIn&desc=AI%20Agents%20%2F%20Systems%20%2F%20Developer%20Tools&descAlign=50&descAlignY=58&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFE566,40:FFD100,70:87CEEB,100:FF6B6B&text=Duang777&fontAlign=50&fontAlignY=36&fontSize=56&fontColor=2B1D0E&animation=fadeIn&desc=%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%20Agent%20%E5%91%A2%E2%9C%A8&descAlign=50&descAlignY=56&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+AI-native+systems+from+agent+loops+to+product+surfaces.;Go+%2B+TypeScript+%2B+Python+%2B+Rust.;Turning+messy+workflows+into+sharp+developer+tools.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=780&lines=%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%A8%E6%91%86%E7%83%82%EF%BC%8C%E6%98%AF%E5%9C%A8%E5%81%9A+AI+%E5%B7%A5%E5%85%B7%F0%9F%A7%A0;%E6%8A%8A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84+workflow+%E6%95%B4%E7%90%86%E6%88%90%E5%8F%AF%E7%94%A8%E7%9A%84%E7%B3%BB%E7%BB%9F;%E7%A0%81%E5%86%99%E5%AE%8C%E4%BA%86%E5%B0%B1%E5%8E%BB%E5%90%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%A5%BC%E4%B9%BE%F0%9F%8D%AA)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/Duang777?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/repos-17-00E5FF?style=for-the-badge&labelColor=0B1020">
-  </a>
-  <a href="https://github.com/Duang777">
-    <img alt="Location" src="https://img.shields.io/badge/Beijing-111827?style=for-the-badge&logo=googlemaps&logoColor=00E5FF&labelColor=0B1020">
-  </a>
-  <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20Agents%20%2B%20Infra-7C3AED?style=for-the-badge&labelColor=0B1020">
+  <img alt="location" src="https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F_Beijing-FFD100?style=for-the-badge&labelColor=2B1D0E&color=FFD100">
+  <img alt="focus" src="https://img.shields.io/badge/%F0%9F%A4%9E_AI_Agents_%2B_Dev_Tools-E63946?style=for-the-badge&labelColor=2B1D0E&color=E63946">
+  <img alt="mood" src="https://img.shields.io/badge/%F0%9F%98%8E_status%3A_%E5%BE%88%E6%9C%89%E7%B2%BE%E7%A5%9E-87CEEB?style=for-the-badge&labelColor=2B1D0E&color=87CEEB">
 </p>
 
 </div>
 
-```txt
-duang777@github
-------------------------------
-Role:        AI-native builder
-Now:         Agentic workflows, data governance, browser tooling
-Stack:       Go / TypeScript / Python / Rust / React
-Bias:        Ship small systems that reveal leverage
-Location:    Beijing
+---
+
+## 👋 大家好，我是 Duang777
+
+白天写 Agent、做开发者工具；晚上……大概还是在写。
+
+不喜欢把东西堆成演示文稿，更喜欢做成能跑、有边角、能反馈的小系统。  
+像整理房间一样整理 workflow——只不过房间永远乱，代码偶尔整齐。
+
+```text
+╭──────────────────────────────────────╮
+│  姓名：Duang777                      │
+│  身份：AI-native builder             │
+│  正在捣鼓：Agent / 数据治理 / 浏览器工具 │
+│  武器库：Go · TypeScript · Python · Rust │
+│  基地：北京（巧克力饼干补给充足）      │
+│  口头禅：先做出来，再假装很有计划       │
+╰──────────────────────────────────────╯
 ```
 
-## Signal
+---
 
-I build tools where language models meet real software surfaces: agent runtimes, browser extensions, data governance workflows, research automation, and product-grade prototypes. The fun part is turning an idea from "interesting demo" into a system with edges, memory, feedback, and a path to use.
+## 🎒 书包里的项目
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Duang777/helios">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED" alt="Helios repository card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&theme=default&hide_border=true&bg_color=FFF8E7&title_color=E63946&text_color=2B1D0E&icon_color=FFD100" alt="Helios">
       </a>
+      <br>
+      <sub>企业数据治理 Agent · 有证据才敢拍板</sub>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Duang777/GPT-Voyager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED" alt="GPT-Voyager repository card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&theme=default&hide_border=true&bg_color=FFF8E7&title_color=E63946&text_color=2B1D0E&icon_color=FFD100" alt="GPT-Voyager">
       </a>
+      <br>
+      <sub>ChatGPT 网页效率扩展 · 会话与导出小管家</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Duang777/feedpilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED" alt="feedpilot repository card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&theme=default&hide_border=true&bg_color=FFF8E7&title_color=E63946&text_color=2B1D0E&icon_color=FFD100" alt="feedpilot">
       </a>
+      <br>
+      <sub>短视频 Feed · Go + React，面向 AI 演进</sub>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Duang777/forgepilot-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED" alt="ForgePilot Agent repository card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&theme=default&hide_border=true&bg_color=FFF8E7&title_color=E63946&text_color=2B1D0E&icon_color=FFD100" alt="ForgePilot Agent">
       </a>
+      <br>
+      <sub>桌面 AI 工作台 · 多模型对话与任务流</sub>
     </td>
   </tr>
 </table>
 
-## Toolchain
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,py,rust,react,nodejs,vite,tailwind,docker,postgres,redis,linux,git,githubactions&perline=15" alt="Tech stack icons">
+  <a href="https://duang777.github.io/helios/">Helios Demo</a>
+  ·
+  <a href="https://duang777.github.io/GPT-Voyager/">Voyager 主页</a>
+  ·
+  <a href="https://github.com/Duang777?tab=repositories">全部仓库 →</a>
 </p>
 
-## Telemetry
+---
+
+## 🖍️ 今天想用什么蜡笔
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,py,rust,react,nodejs,vite,docker,postgres,redis,linux,git,githubactions&perline=7" alt="tech stack">
+</p>
+
+---
+
+## 📈 成绩单（不是考试那种）
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=7C3AED" alt="GitHub stats">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duang777&theme=github_dark" alt="Profile summary">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&include_all_commits=true&bg_color=FFF8E7&title_color=E63946&text_color=2B1D0E&icon_color=FFB703&ring_color=87CEEB" alt="GitHub stats">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&bg_color=FFF8E7&title_color=E63946&text_color=2B1D0E" alt="Top languages">
 
 </div>
 
-## Ops Board
+---
 
-<!-- The generated assets below appear after the workflows run in the profile repository. -->
+## 🐍 贡献贪吃蛇
+
+> 绿色小格子被吃掉的声音，有点像咬巧克力饼干。
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-  <img alt="GitHub contribution snake" src="dist/github-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="dist/github-snake.svg">
 </picture>
-
-<br>
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph">
-
-<br>
-
-<img width="98%" src="github-metrics.svg" alt="GitHub metrics">
 
 </div>
 
-## Coordinates
-
-<p align="center">
-  <a href="https://github.com/Duang777/helios">Helios</a>
-  ·
-  <a href="https://duang777.github.io/helios/">Helios demo</a>
-  ·
-  <a href="https://github.com/Duang777/GPT-Voyager">GPT-Voyager</a>
-  ·
-  <a href="https://duang777.github.io/GPT-Voyager/">Voyager page</a>
-  ·
-  <a href="https://github.com/Duang777?tab=repositories">All repos</a>
-</p>
+---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:111827,45:0B3D3A,100:050816)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:87CEEB,50:FFD100,100:FF6B6B)
+
+<sub>动感超人……不，是动感程序员 ✨ · 有好玩的事就 <a href="https://github.com/Duang777">戳这里</a></sub>
 
 </div>

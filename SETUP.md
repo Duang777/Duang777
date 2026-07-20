@@ -1,9 +1,10 @@
-# Duang777 GitHub Profile Setup
+# Duang777 GitHub 主页（蜡笔小新风）
 
-This folder is ready to become the `Duang777/Duang777` profile repository.
+本目录对应公开仓库 [`Duang777/Duang777`](https://github.com/Duang777/Duang777) 的 profile README。
 
-## Install
+## 风格
 
+<<<<<<< HEAD
 1. Create a public GitHub repository named exactly `Duang777`.
 2. Add `README.md` and the `.github/workflows` folder from this directory into that repository.
 3. Commit and push to the `main` branch.
@@ -11,20 +12,28 @@ This folder is ready to become the `Duang777/Duang777` profile repository.
    - `Metrics`
    - `Contribution Snake`
    - `Profile 3D`
+=======
+- 配色：小新黄 `#FFD100`、短裤红 `#E63946`、天空蓝 `#87CEEB`、奶油底 `#FFF8E7`
+- 文案：轻松调皮，信息仍清楚
+- 版面：只保留介绍、精选项目、技能、成绩单、贡献蛇——不再堆 metrics / 3D 图
+>>>>>>> a535589 (style: redo profile README in Crayon Shin-chan vibe)
 
-## Recommended Token
+## 同步到 GitHub
 
-The metrics workflow can run with the built-in `GITHUB_TOKEN`, but a personal token gives better data coverage.
-
-Create a classic PAT with `public_repo` scope, then add it as a repository secret named:
-
-```txt
-METRICS_TOKEN
+```bash
+cd github-profile-Duang777
+git add README.md SETUP.md
+git commit -m "style: redo profile README in Crayon Shin-chan vibe"
+git push origin main
 ```
 
-## Notes
+## Actions（可选）
 
-- The profile README uses public image services for the header, stats cards, typing text, and skill icons.
-- Generated files appear after the workflows run.
-- The contribution snake is committed back to the `main` branch under `dist/`.
-- The 3D graph is committed back to the `main` branch under `profile-3d-contrib/`.
+在仓库 Actions 里按需手动跑一次：
+
+1. **Contribution Snake** — 生成 `dist/github-snake*.svg`
+2. **Metrics** / **Profile 3D** — 当前 README 未引用，可停用或删 workflow
+
+## Token
+
+Metrics workflow 如仍启用，可在仓库 Secrets 里配置 `METRICS_TOKEN`（classic PAT，`public_repo`）。贡献蛇通常用默认 `GITHUB_TOKEN` 即可。
