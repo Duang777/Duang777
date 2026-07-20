@@ -12,6 +12,24 @@
 
 <div align="center">
 
+### Homepage
+
+<a href="https://duang777.github.io/receipt-homepage/">
+  <img src="https://cdn.jsdelivr.net/gh/Duang777/receipt-homepage@main/preview-index-fixed.png" alt="Receipt Homepage" width="560" style="border-radius:12px" />
+</a>
+
+<br><br>
+
+<a href="https://duang777.github.io/receipt-homepage/">
+  <img src="https://img.shields.io/badge/open%20site-duang777.github.io%2Freceipt--homepage-0B0D10?style=for-the-badge&labelColor=E8EAED&color=0B0D10" alt="Open homepage" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### Selected Work
 
 <table align="center">
