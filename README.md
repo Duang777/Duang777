@@ -8,14 +8,7 @@
   </a>
 </div>
 
-```txt
-os:       macOS · Beijing
-shell:    zsh
-editor:   Cursor / VS Code
-stack:    Go · TypeScript · Python · Rust
-focus:    agents · systems · developer tools
-now:      helios · forgepilot-agent
-```
+<br>
 
 <div align="center">
 
