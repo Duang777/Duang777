@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mark.jpg" alt="D" width="160" />
+  <img src="assets/mark-rounded.jpg" alt="D" width="260" />
 
   <h1>Duang777</h1>
   <p>Agents · Systems · Developer Tools</p>
