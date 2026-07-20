@@ -7,7 +7,7 @@ This folder is ready to become the `Duang777/Duang777` profile repository.
 1. Create a public GitHub repository named exactly `Duang777`.
 2. Add `README.md` and the `.github/workflows` folder from this directory into that repository.
 3. Commit and push to the `main` branch.
-4. Open the repository Actions tab and manually run:
+4. Open the repository Actions tab and manually run these one at a time:
    - `Metrics`
    - `Contribution Snake`
    - `Profile 3D`
