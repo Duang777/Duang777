@@ -60,6 +60,8 @@
 </table>
 
 <p>
+  <a href="https://duang777.github.io/receipt-homepage/">Homepage</a>
+  ·
   <a href="https://duang777.github.io/helios/">Helios</a>
   ·
   <a href="https://duang777.github.io/GPT-Voyager/">GPT-Voyager</a>
