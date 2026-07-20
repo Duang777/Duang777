@@ -1,9 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="D">
   <rect width="512" height="512" rx="112" ry="112" fill="#F7F5F2"/>
-  <g fill="#121212">
-    <rect x="118" y="72" width="64" height="368" rx="4"/>
-    <rect x="96" y="72" width="86" height="8"/>
-    <rect x="96" y="432" width="86" height="8"/>
-    <path d="M182 72 C330 72 420 148 420 256 C420 364 330 440 182 440 L182 392 C298 392 360 332 360 256 C360 180 298 120 182 120 Z"/>
-  </g>
+  <!-- Rounded geometric D -->
+  <path fill="#121212" d="
+    M150 96
+    h70
+    c98 0 170 62 170 160
+    s-72 160-170 160
+    h-70
+    c-22 0-38-16-38-38
+    V134
+    c0-22 16-38 38-38
+    z
+    M188 148
+    v216
+    h32
+    c66 0 112-42 112-108
+    S286 148 220 148
+    h-32
+    z" fill-rule="evenodd"/>
 </svg>
