@@ -1,14 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFE566,40:FFD100,70:87CEEB,100:FF6B6B&text=Duang777&fontAlign=50&fontAlignY=36&fontSize=56&fontColor=2B1D0E&animation=fadeIn&desc=%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%20Agent%20%E5%91%A2%E2%9C%A8&descAlign=50&descAlignY=56&descSize=16)
+<img src="assets/header.jpg" alt="Duang777 · 蜡笔小新风主页" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=780&lines=%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%A8%E6%91%86%E7%83%82%EF%BC%8C%E6%98%AF%E5%9C%A8%E5%81%9A+AI+%E5%B7%A5%E5%85%B7%F0%9F%A7%A0;%E6%8A%8A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84+workflow+%E6%95%B4%E7%90%86%E6%88%90%E5%8F%AF%E7%94%A8%E7%9A%84%E7%B3%BB%E7%BB%9F;%E7%A0%81%E5%86%99%E5%AE%8C%E4%BA%86%E5%B0%B1%E5%8E%BB%E5%90%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%A5%BC%E4%B9%BE%F0%9F%8D%AA)](https://git.io/typing-svg)
+<br>
 
-<p>
-  <img alt="location" src="https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F_Beijing-FFD100?style=for-the-badge&labelColor=2B1D0E&color=FFD100">
-  <img alt="focus" src="https://img.shields.io/badge/%F0%9F%A4%9E_AI_Agents_%2B_Dev_Tools-E63946?style=for-the-badge&labelColor=2B1D0E&color=E63946">
-  <img alt="mood" src="https://img.shields.io/badge/%F0%9F%98%8E_status%3A_%E5%BE%88%E6%9C%89%E7%B2%BE%E7%A5%9E-87CEEB?style=for-the-badge&labelColor=2B1D0E&color=87CEEB">
-</p>
+<img src="assets/logo-d.jpg" alt="Duang777 D logo" width="140">
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=700&size=24&duration=2800&pause=900&color=E63946&center=true&vCenter=true&width=720&lines=%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%A8%E6%91%86%E7%83%82%EF%BC%8C%E6%98%AF%E5%9C%A8%E5%81%9A+AI+%E5%B7%A5%E5%85%B7%F0%9F%A7%A0;%E6%8A%8A%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E7%9A%84+workflow+%E6%95%B4%E7%90%86%E6%88%90%E5%8F%AF%E7%94%A8%E7%9A%84%E7%B3%BB%E7%BB%9F;%E7%A0%81%E5%86%99%E5%AE%8C%E4%BA%86%EF%BC%8C%E5%85%88%E5%90%83%E5%9D%97%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%A5%BC%E4%B9%BE%F0%9F%8D%AA)](https://git.io/typing-svg)
+
+`北京` · `AI Agents` · `Dev Tools` · `很有精神`
 
 </div>
 
@@ -24,6 +26,7 @@
 ```text
 ╭──────────────────────────────────────╮
 │  姓名：Duang777                      │
+│  Logo：带呆毛的黄色 D                │
 │  身份：AI-native builder             │
 │  正在捣鼓：Agent / 数据治理 / 浏览器工具 │
 │  武器库：Go · TypeScript · Python · Rust │
@@ -118,7 +121,9 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:87CEEB,50:FFD100,100:FF6B6B)
+<img src="assets/logo-d.svg" alt="D" width="56">
+
+<br>
 
 <sub>动感超人……不，是动感程序员 ✨ · 有好玩的事就 <a href="https://github.com/Duang777">戳这里</a></sub>
 

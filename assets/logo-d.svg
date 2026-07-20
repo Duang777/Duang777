@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Duang777 D logo">
+  <rect width="512" height="512" rx="96" fill="#FFF8E7"/>
+  <!-- Letter D body -->
+  <path d="M118 96h120c118 0 196 74 196 160s-78 160-196 160H118c-18 0-28-12-28-28V124c0-16 10-28 28-28z" fill="#FFD100" stroke="#1A1208" stroke-width="22" stroke-linejoin="round"/>
+  <!-- Red collar stripe -->
+  <path d="M148 118v276" fill="none" stroke="#E63946" stroke-width="28" stroke-linecap="round"/>
+  <!-- Inner hole -->
+  <path d="M232 168c62 0 104 38 104 88s-42 88-104 88h-28V168h28z" fill="#FFF8E7" stroke="#1A1208" stroke-width="18" stroke-linejoin="round"/>
+  <!-- Hair spikes -->
+  <ellipse cx="168" cy="78" rx="16" ry="22" fill="#1A1208"/>
+  <ellipse cx="208" cy="68" rx="17" ry="24" fill="#1A1208"/>
+  <ellipse cx="250" cy="64" rx="18" ry="26" fill="#1A1208"/>
+  <ellipse cx="292" cy="70" rx="17" ry="24" fill="#1A1208"/>
+  <ellipse cx="330" cy="82" rx="15" ry="20" fill="#1A1208"/>
+  <!-- Eyebrows -->
+  <path d="M170 150c28 18 56 18 84 0" fill="none" stroke="#1A1208" stroke-width="18" stroke-linecap="round"/>
+  <path d="M270 150c28 18 56 18 84 0" fill="none" stroke="#1A1208" stroke-width="18" stroke-linecap="round"/>
+  <!-- Face in the hole -->
+  <path d="M248 220c8 10 8 10 16 0" fill="none" stroke="#1A1208" stroke-width="8" stroke-linecap="round"/>
+  <path d="M286 220c8 10 8 10 16 0" fill="none" stroke="#1A1208" stroke-width="8" stroke-linecap="round"/>
+  <path d="M258 248c10 12 24 12 34 0" fill="none" stroke="#1A1208" stroke-width="8" stroke-linecap="round"/>
+  <path d="M236 236l10 8" fill="none" stroke="#FF8FAB" stroke-width="6" stroke-linecap="round"/>
+  <path d="M322 236l-10 8" fill="none" stroke="#FF8FAB" stroke-width="6" stroke-linecap="round"/>
+</svg>
