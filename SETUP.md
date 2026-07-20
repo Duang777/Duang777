@@ -4,19 +4,9 @@
 
 ## 风格
 
-<<<<<<< HEAD
-1. Create a public GitHub repository named exactly `Duang777`.
-2. Add `README.md` and the `.github/workflows` folder from this directory into that repository.
-3. Commit and push to the `main` branch.
-4. Open the repository Actions tab and manually run these one at a time:
-   - `Metrics`
-   - `Contribution Snake`
-   - `Profile 3D`
-=======
 - 配色：小新黄 `#FFD100`、短裤红 `#E63946`、天空蓝 `#87CEEB`、奶油底 `#FFF8E7`
 - 文案：轻松调皮，信息仍清楚
 - 版面：只保留介绍、精选项目、技能、成绩单、贡献蛇——不再堆 metrics / 3D 图
->>>>>>> a535589 (style: redo profile README in Crayon Shin-chan vibe)
 
 ## 同步到 GitHub
 
