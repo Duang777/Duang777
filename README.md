@@ -59,7 +59,9 @@ Turn messy workflows into systems with edges, memory, and feedback.
 ### Activity
 
 <div align="center">
-  <img width="420" height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&include_all_commits=true&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="Stats" />
-  <br><br>
-  <img width="420" height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&border_radius=12&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6" alt="Languages" />
+  <img width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&include_all_commits=true&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="Stats" />
+</div>
+<br>
+<div align="center">
+  <img width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&border_radius=12&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6" alt="Languages" />
 </div>
