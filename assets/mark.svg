@@ -1,13 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="D">
-  <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#1A1F26" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="512" height="512" rx="112" ry="112" fill="#0B0D10"/>
-  <rect width="512" height="512" rx="112" ry="112" fill="url(#grid)" opacity="0.55"/>
-  <path fill="#E8EAED" fill-rule="evenodd" d="
-    M142 98h78c104 0 178 66 178 158s-74 158-178 158h-78
-    c-24 0-42-18-42-42V140c0-24 18-42 42-42z
-    M184 152v208h36c70 0 118-44 118-104S290 152 220 152h-36z"/>
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <rect x="8" y="8" width="496" height="496" rx="96" ry="96" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="3"/>
+  <path fill="#111111" fill-rule="evenodd" d="
+    M176 150h64c72 0 122 46 122 106s-50 106-122 106h-64
+    c-18 0-30-12-30-30V180c0-18 12-30 30-30z
+    M206 186v140h34c46 0 76-30 76-70s-30-70-76-70h-34z"/>
 </svg>
