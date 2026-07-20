@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="assets/d.png" alt="D" width="120" />
+  <img src="assets/mark.jpg" alt="D" width="160" />
+
   <h1>Duang777</h1>
-  <p><em>AI Agents · Systems · Developer Tools</em></p>
-  <p>
-    <img src="https://img.shields.io/badge/Beijing-171717?style=flat-square&labelColor=FAFAF9&color=171717" alt="Beijing" />
-    <img src="https://img.shields.io/badge/Focus-AI%20Agents-171717?style=flat-square&labelColor=FAFAF9&color=C4A574" alt="Focus" />
-  </p>
+  <p>Agents · Systems · Developer Tools</p>
 </div>
 
 <br>
@@ -22,24 +19,24 @@ Prefer small systems with clear edges, memory, and feedback over demos that stop
   <tr>
     <td width="50%">
       <a href="https://github.com/Duang777/helios">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&hide_border=true&bg_color=FAFAF9&title_color=171717&text_color=525252&icon_color=C4A574" alt="Helios" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="Helios" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Duang777/GPT-Voyager">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&hide_border=true&bg_color=FAFAF9&title_color=171717&text_color=525252&icon_color=C4A574" alt="GPT-Voyager" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="GPT-Voyager" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Duang777/feedpilot">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&hide_border=true&bg_color=FAFAF9&title_color=171717&text_color=525252&icon_color=C4A574" alt="feedpilot" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="feedpilot" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Duang777/forgepilot-agent">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&hide_border=true&bg_color=FAFAF9&title_color=171717&text_color=525252&icon_color=C4A574" alt="ForgePilot Agent" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="ForgePilot Agent" />
       </a>
     </td>
   </tr>
@@ -66,12 +63,6 @@ Prefer small systems with clear edges, memory, and feedback over demos that stop
 ### Activity
 
 <div align="center">
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&include_all_commits=true&bg_color=FAFAF9&title_color=171717&text_color=525252&icon_color=C4A574&ring_color=C4A574" alt="Stats" />
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&bg_color=FAFAF9&title_color=171717&text_color=525252" alt="Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="assets/d.png" alt="D" width="32" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&include_all_commits=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A&ring_color=BFA67A" alt="Stats" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252" alt="Languages" />
 </div>

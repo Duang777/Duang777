@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="D">
+  <rect width="512" height="512" fill="#F7F5F2"/>
+  <!-- High-contrast Didot-inspired D -->
+  <g fill="#121212">
+    <!-- thick stem -->
+    <rect x="148" y="108" width="58" height="296" rx="2"/>
+    <!-- top hairline serif -->
+    <rect x="128" y="108" width="78" height="6"/>
+    <!-- bottom hairline serif -->
+    <rect x="128" y="398" width="78" height="6"/>
+    <!-- bowl: thick outer arc approximated with path, thin inner -->
+    <path d="M206 108
+             C318 108 386 168 386 256
+             C386 344 318 404 206 404
+             L206 368
+             C292 368 338 322 338 256
+             C338 190 292 144 206 144
+             Z"/>
+  </g>
+</svg>
