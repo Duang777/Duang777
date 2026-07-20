@@ -1,21 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="D">
-  <rect width="512" height="512" rx="112" ry="112" fill="#F7F5F2"/>
-  <!-- Rounded geometric D -->
-  <path fill="#121212" d="
-    M150 96
-    h70
-    c98 0 170 62 170 160
-    s-72 160-170 160
-    h-70
-    c-22 0-38-16-38-38
-    V134
-    c0-22 16-38 38-38
-    z
-    M188 148
-    v216
-    h32
-    c66 0 112-42 112-108
-    S286 148 220 148
-    h-32
-    z" fill-rule="evenodd"/>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1A1F26" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" rx="112" ry="112" fill="#0B0D10"/>
+  <rect width="512" height="512" rx="112" ry="112" fill="url(#grid)" opacity="0.55"/>
+  <rect x="96" y="210" width="6" height="36" rx="3" fill="#3DDC97"/>
+  <path fill="#E8EAED" fill-rule="evenodd" d="
+    M142 98h78c104 0 178 66 178 158s-74 158-178 158h-78
+    c-24 0-42-18-42-42V140c0-24 18-42 42-42z
+    M184 152v208h36c70 0 118-44 118-104S290 152 220 152h-36z"/>
 </svg>

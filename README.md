@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="assets/mark-soft.jpg" alt="D" width="260" />
+  <img src="assets/mark-geek.jpg" alt="D" width="280" />
 
-  <h1>Duang777</h1>
-  <p>Agents · Systems · Developer Tools</p>
+  <h1><code>Duang777</code></h1>
+  <p><code>agents</code> · <code>systems</code> · <code>developer-tools</code></p>
 </div>
 
-<br>
+```txt
+$ whoami
+AI-native builder — agents, infra, and sharp developer tools.
 
-I build tools where language models meet real software surfaces — agent runtimes, browser extensions, data governance workflows, and product-grade prototypes.
-
-Prefer small systems with clear edges, memory, and feedback over demos that stop at the slide deck.
-
-<br>
+$ focus
+Turn messy workflows into systems with edges, memory, and feedback.
+```
 
 ### Selected Work
 
@@ -19,24 +19,24 @@ Prefer small systems with clear edges, memory, and feedback over demos that stop
   <tr>
     <td width="50%">
       <a href="https://github.com/Duang777/helios">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="Helios" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="Helios" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Duang777/GPT-Voyager">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="GPT-Voyager" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="GPT-Voyager" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Duang777/feedpilot">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="feedpilot" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="feedpilot" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Duang777/forgepilot-agent">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A" alt="ForgePilot Agent" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="ForgePilot Agent" />
       </a>
     </td>
   </tr>
@@ -50,19 +50,15 @@ Prefer small systems with clear edges, memory, and feedback over demos that stop
   <a href="https://github.com/Duang777?tab=repositories">All repos</a>
 </p>
 
-<br>
-
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nodejs,docker,postgres,redis,linux,git,githubactions&theme=light&perline=12" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nodejs,docker,postgres,redis,linux,git,githubactions&theme=dark&perline=12" alt="Stack" />
 </p>
-
-<br>
 
 ### Activity
 
 <div align="center">
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&include_all_commits=true&bg_color=F7F5F2&title_color=121212&text_color=525252&icon_color=BFA67A&ring_color=BFA67A" alt="Stats" />
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&bg_color=F7F5F2&title_color=121212&text_color=525252" alt="Languages" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97&ring_color=3DDC97" alt="Stats" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6" alt="Languages" />
 </div>
