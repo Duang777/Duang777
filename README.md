@@ -17,7 +17,7 @@ Turn messy workflows into systems with edges, memory, and feedback.
 
 ### Selected Work
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Duang777/helios">
