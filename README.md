@@ -8,7 +8,14 @@
   </a>
 </div>
 
-<br>
+```txt
+os:       macOS · Beijing
+shell:    zsh
+editor:   Cursor / VS Code
+stack:    Go · TypeScript · Python · Rust
+focus:    agents · systems · developer tools
+now:      helios · forgepilot-agent
+```
 
 <div align="center">
 
@@ -58,5 +65,7 @@
 <img width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&include_all_commits=true&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="Stats" />
 <br><br>
 <img width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&border_radius=12&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6" alt="Languages" />
+<br><br>
+<img width="420" src="https://streak-stats.demolab.com/?user=Duang777&hide_border=true&border_radius=12&background=0B0D10&stroke=0B0D10&ring=8B949E&fire=8B949E&currStreakNum=E8EAED&sideNums=9AA0A6&currStreakLabel=9AA0A6&sideLabels=9AA0A6&dates=6E7681" alt="Streak" />
 
 </div>
