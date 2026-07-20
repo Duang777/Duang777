@@ -1,17 +1,14 @@
 <div align="center">
   <img src="assets/mark-clean.jpg" alt="D" width="280" />
 
-  <h1><code>Duang777</code></h1>
-  <p><code>agents</code> · <code>systems</code> · <code>developer-tools</code></p>
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=C9D1D9&center=true&vCenter=true&width=640&height=36&lines=%24+whoami+%E2%86%92+Duang777;building+agents+%26+developer+tools;go+%C2%B7+typescript+%C2%B7+python+%C2%B7+rust;ship+small+systems+that+actually+run" alt="typing" />
+  </a>
 </div>
 
-```txt
-$ whoami
-AI-native builder — agents, infra, and sharp developer tools.
-
-$ focus
-Turn messy workflows into systems with edges, memory, and feedback.
-```
+<br>
 
 <div align="center">
 
