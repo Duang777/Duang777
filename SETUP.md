@@ -1,29 +1,26 @@
-# Duang777 GitHub 主页（蜡笔小新风）
+# Duang777 Profile
 
-本目录对应公开仓库 [`Duang777/Duang777`](https://github.com/Duang777/Duang777) 的 profile README。
+极简高级感主页。Logo 为字母 **D** monogram（自绘 SVG）。
 
-## 风格
+## 用到的辅助项目
 
-- 配色：小新黄 `#FFD100`、短裤红 `#E63946`、天空蓝 `#87CEEB`、奶油底 `#FFF8E7`
-- 文案：轻松调皮，信息仍清楚
-- 版面：只保留介绍、精选项目、技能、成绩单、贡献蛇——不再堆 metrics / 3D 图
+| 项目 | 用途 |
+|------|------|
+| 自绘 `assets/logo-d.svg` | D monogram（主视觉） |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 仓库卡 / 统计 / 语言 |
+| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | 技术栈图标 |
+| [shields.io](https://shields.io) | 极简 badge |
+| [ReadmeForge](https://github.com/rishabhbhartiya/READMEForge) | 备选金属 logo 容器（当前未用，避免花哨） |
+| [ProfileKit](https://github.com/starter-series/ProfileKit) | 备选可定制 SVG 卡片 |
 
-## 同步到 GitHub
+## 配色
+
+- Ink `#171717`
+- Paper `#FAFAF9`
+- Accent gold `#C4A574`
+
+## 同步
 
 ```bash
-cd github-profile-Duang777
-git add README.md SETUP.md
-git commit -m "style: redo profile README in Crayon Shin-chan vibe"
-git push origin main
+git add -A && git commit -m "style: minimal premium profile with D monogram" && git push
 ```
-
-## Actions（可选）
-
-在仓库 Actions 里按需手动跑一次：
-
-1. **Contribution Snake** — 生成 `dist/github-snake*.svg`
-2. **Metrics** / **Profile 3D** — 当前 README 未引用，可停用或删 workflow
-
-## Token
-
-Metrics workflow 如仍启用，可在仓库 Secrets 里配置 `METRICS_TOKEN`（classic PAT，`public_repo`）。贡献蛇通常用默认 `GITHUB_TOKEN` 即可。
