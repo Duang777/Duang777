@@ -1,8 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="D">
   <rect width="512" height="512" fill="#FFFFFF"/>
-  <rect x="8" y="8" width="496" height="496" rx="96" ry="96" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="3"/>
-  <path fill="#111111" fill-rule="evenodd" d="
-    M176 150h64c72 0 122 46 122 106s-50 106-122 106h-64
-    c-18 0-30-12-30-30V180c0-18 12-30 30-30z
-    M206 186v140h34c46 0 76-30 76-70s-30-70-76-70h-34z"/>
+  <rect x="10" y="10" width="492" height="492" rx="108" ry="108" fill="#FFFFFF" stroke="#D2D2D2" stroke-width="3"/>
+  <!-- outer rounded D -->
+  <path fill="#111111" d="
+    M168 148
+    h78
+    c86 0 146 52 146 108
+    s-60 108-146 108
+    h-78
+    c-28 0-48-20-48-48
+    V196
+    c0-28 20-48 48-48
+    z"/>
+  <!-- counter (hole) -->
+  <path fill="#FFFFFF" d="
+    M208 196
+    h36
+    c48 0 80 28 80 60
+    s-32 60-80 60
+    h-36
+    c-12 0-20-8-20-20
+    V216
+    c0-12 8-20 20-20
+    z"/>
+  <!-- top-left design notch -->
+  <rect x="152" y="168" width="22" height="10" rx="5" fill="#FFFFFF"/>
+  <!-- subtle inner echo stroke -->
+  <path fill="none" stroke="#111111" stroke-opacity="0.18" stroke-width="3" stroke-linejoin="round"
+    d="M186 168 h52 c68 0 112 40 112 88 s-44 88-112 88 h-52 c-16 0-28-12-28-28 V196 c0-16 12-28 28-28 z"/>
 </svg>

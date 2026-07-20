@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mark-white.jpg" alt="D" width="140" />
+  <img src="assets/mark-round.jpg" alt="D" width="140" />
 
   <br>
 
