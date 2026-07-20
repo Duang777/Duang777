@@ -6,7 +6,6 @@
   </defs>
   <rect width="512" height="512" rx="112" ry="112" fill="#0B0D10"/>
   <rect width="512" height="512" rx="112" ry="112" fill="url(#grid)" opacity="0.55"/>
-  <rect x="96" y="210" width="6" height="36" rx="3" fill="#3DDC97"/>
   <path fill="#E8EAED" fill-rule="evenodd" d="
     M142 98h78c104 0 178 66 178 158s-74 158-178 158h-78
     c-24 0-42-18-42-42V140c0-24 18-42 42-42z

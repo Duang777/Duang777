@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/mark-geek.jpg" alt="D" width="280" />
+  <img src="assets/mark-clean.jpg" alt="D" width="280" />
 
   <h1><code>Duang777</code></h1>
   <p><code>agents</code> · <code>systems</code> · <code>developer-tools</code></p>
@@ -19,24 +19,24 @@ Turn messy workflows into systems with edges, memory, and feedback.
   <tr>
     <td width="50%">
       <a href="https://github.com/Duang777/helios">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="Helios" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=helios&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="Helios" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Duang777/GPT-Voyager">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="GPT-Voyager" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=GPT-Voyager&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="GPT-Voyager" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Duang777/feedpilot">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="feedpilot" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=feedpilot&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="feedpilot" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Duang777/forgepilot-agent">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97" alt="ForgePilot Agent" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Duang777&repo=forgepilot-agent&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="ForgePilot Agent" />
       </a>
     </td>
   </tr>
@@ -59,6 +59,7 @@ Turn messy workflows into systems with edges, memory, and feedback.
 ### Activity
 
 <div align="center">
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=3DDC97&ring_color=3DDC97" alt="Stats" />
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6" alt="Languages" />
+  <img width="420" height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Duang777&show_icons=true&hide_rank=true&hide_border=true&border_radius=12&include_all_commits=true&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="Stats" />
+  <br><br>
+  <img width="420" height="195" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Duang777&layout=compact&hide_border=true&border_radius=12&card_width=420&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6" alt="Languages" />
 </div>
