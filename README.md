@@ -12,17 +12,27 @@
 
 <div align="center">
 
-### Homepage
+### Sites
 
-<a href="https://duang777.github.io/receipt-homepage/">
-  <img src="https://cdn.jsdelivr.net/gh/Duang777/receipt-homepage@main/preview-index-fixed.png" alt="Receipt Homepage" width="560" style="border-radius:12px" />
-</a>
+<p>
+  <a href="https://duang-landing.pages.dev">
+    <img src="https://img.shields.io/badge/Landing-duang--landing.pages.dev-0B0D10?style=for-the-badge&labelColor=A65E44&color=0B0D10" alt="Open landing" />
+  </a>
+  &nbsp;
+  <a href="https://duangblog.pages.dev">
+    <img src="https://img.shields.io/badge/Blog-duangblog.pages.dev-0B0D10?style=for-the-badge&labelColor=E8EAED&color=0B0D10" alt="Open blog" />
+  </a>
+</p>
 
-<br><br>
+<p>
+  <a href="https://duang-landing.pages.dev"><strong>Landing</strong></a>
+  · 桌面端落地页，文章选读与工程笔记入口
+</p>
 
-<a href="https://duang777.github.io/receipt-homepage/">
-  <img src="https://img.shields.io/badge/open%20site-duang777.github.io%2Freceipt--homepage-0B0D10?style=for-the-badge&labelColor=E8EAED&color=0B0D10" alt="Open homepage" />
-</a>
+<p>
+  <a href="https://duangblog.pages.dev"><strong>Blog</strong></a>
+  · Agent、后端与全栈工程笔记
+</p>
 
 </div>
 
@@ -60,7 +70,9 @@
 </table>
 
 <p>
-  <a href="https://duang777.github.io/receipt-homepage/">Homepage</a>
+  <a href="https://duang-landing.pages.dev">Landing</a>
+  ·
+  <a href="https://duangblog.pages.dev">Blog</a>
   ·
   <a href="https://duang777.github.io/helios/">Helios</a>
   ·
