@@ -91,23 +91,11 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="left" width="640">
-      <strong>Open Mercato contributor</strong>
-      <br>
-      Merged backend fix in the sales module: persisted order totals are served consistently on single-row order detail API reads.
-      <br>
-      <sub>
-        <a href="https://github.com/open-mercato/open-mercato">open-mercato/open-mercato</a>
-        ·
-        <a href="https://github.com/open-mercato/open-mercato/pull/5470">PR #5470</a>
-        ·
-        <code>fix(sales)</code>
-      </sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <strong>Open Mercato contributor</strong>
+  · merged <a href="https://github.com/open-mercato/open-mercato/pull/5470">PR #5470</a>
+  · <code>fix(sales)</code>
+</p>
 
 </div>
 
