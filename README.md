@@ -81,6 +81,38 @@
   <a href="https://github.com/Duang777?tab=repositories">All repos</a>
 </p>
 
+<div align="center">
+
+### Open Source
+
+<p>
+  <a href="https://github.com/open-mercato/open-mercato/pull/5470">
+    <img src="https://img.shields.io/badge/Open%20Mercato-merged%20contributor-0B0D10?style=for-the-badge&labelColor=2EA043&color=0B0D10" alt="Open Mercato merged contributor" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="left" width="640">
+      <strong>Open Mercato contributor</strong>
+      <br>
+      Merged backend fix in the sales module: persisted order totals are served consistently on single-row order detail API reads.
+      <br>
+      <sub>
+        <a href="https://github.com/open-mercato/open-mercato">open-mercato/open-mercato</a>
+        ·
+        <a href="https://github.com/open-mercato/open-mercato/pull/5470">PR #5470</a>
+        ·
+        <code>fix(sales)</code>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=go,ts,py,rust,react,nodejs,docker,postgres,redis,linux,git,githubactions&theme=dark&perline=12" alt="Stack" />
