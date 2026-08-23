@@ -75,21 +75,20 @@
 
 ### Open Source
 
-<p>
-  <a href="https://github.com/open-mercato/open-mercato">
-    <img src="https://img.shields.io/badge/Open%20Mercato-contributor-0B0D10?style=for-the-badge&labelColor=2EA043&color=0B0D10" alt="Open Mercato contributor" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/huangruiteng/loopx">
-    <img src="https://img.shields.io/badge/LoopX-contributor-0B0D10?style=for-the-badge&labelColor=0969DA&color=0B0D10" alt="LoopX contributor" />
-  </a>
-</p>
-
-<p>
-  <strong>Open Source contributor</strong>
-  · <a href="https://github.com/open-mercato/open-mercato">Open Mercato</a>
-  · <a href="https://github.com/huangruiteng/loopx">LoopX</a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/open-mercato/open-mercato">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-mercato&repo=open-mercato&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="open-mercato/open-mercato" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/huangruiteng/loopx">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huangruiteng&repo=loopx&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="huangruiteng/loopx" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
