@@ -86,19 +86,19 @@
 ### Open Source
 
 <p>
-  <a href="https://github.com/open-mercato/open-mercato/pull/5470">
-    <img src="https://img.shields.io/badge/Open%20Mercato-merged%20contributor-0B0D10?style=for-the-badge&labelColor=2EA043&color=0B0D10" alt="Open Mercato merged contributor" />
+  <a href="https://github.com/open-mercato/open-mercato">
+    <img src="https://img.shields.io/badge/Open%20Mercato-contributor-0B0D10?style=for-the-badge&labelColor=2EA043&color=0B0D10" alt="Open Mercato contributor" />
   </a>
   &nbsp;
-  <a href="https://github.com/huangruiteng/loopx/pull/3437">
-    <img src="https://img.shields.io/badge/LoopX-merged%20contributor-0B0D10?style=for-the-badge&labelColor=0969DA&color=0B0D10" alt="LoopX merged contributor" />
+  <a href="https://github.com/huangruiteng/loopx">
+    <img src="https://img.shields.io/badge/LoopX-contributor-0B0D10?style=for-the-badge&labelColor=0969DA&color=0B0D10" alt="LoopX contributor" />
   </a>
 </p>
 
 <p>
   <strong>Open Source contributor</strong>
-  · <a href="https://github.com/open-mercato/open-mercato/pull/5470">Open Mercato #5470</a> <code>fix(sales)</code>
-  · <a href="https://github.com/huangruiteng/loopx/pull/3437">LoopX #3437</a> <code>fix(todos)</code>
+  · <a href="https://github.com/open-mercato/open-mercato">Open Mercato</a>
+  · <a href="https://github.com/huangruiteng/loopx">LoopX</a>
 </p>
 
 </div>
