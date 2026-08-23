@@ -24,16 +24,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://duang-landing.pages.dev"><strong>Landing</strong></a>
-  · 桌面端落地页，文章选读与工程笔记入口
-</p>
-
-<p>
-  <a href="https://duangblog.pages.dev"><strong>Blog</strong></a>
-  · Agent、后端与全栈工程笔记
-</p>
-
 </div>
 
 <br>
