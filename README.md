@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Landing-duang--landing.pages.dev-0B0D10?style=for-the-badge&labelColor=A65E44&color=0B0D10" alt="Open landing" />
   </a>
   &nbsp;
-  <a href="https://duangblog.pages.dev">
-    <img src="https://img.shields.io/badge/Blog-duangblog.pages.dev-0B0D10?style=for-the-badge&labelColor=E8EAED&color=0B0D10" alt="Open blog" />
+  <a href="https://duangblog-pz.pages.dev">
+    <img src="https://img.shields.io/badge/Blog-duangblog--pz.pages.dev-0B0D10?style=for-the-badge&labelColor=E8EAED&color=0B0D10" alt="Open blog" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 <p>
   <a href="https://duang-landing.pages.dev">Landing</a>
   ·
-  <a href="https://duangblog.pages.dev">Blog</a>
+  <a href="https://duangblog-pz.pages.dev">Blog</a>
   ·
   <a href="https://duang777.github.io/helios/">Helios</a>
   ·
