@@ -38,6 +38,13 @@
 
 <table align="center">
   <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/max-sixty/worktrunk">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=max-sixty&repo=worktrunk&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="max-sixty/worktrunk" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/open-mercato/open-mercato">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=open-mercato&repo=open-mercato&hide_border=true&border_radius=12&bg_color=0B0D10&title_color=E8EAED&text_color=9AA0A6&icon_color=8B949E" alt="open-mercato/open-mercato" />
