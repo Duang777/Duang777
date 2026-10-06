@@ -10,4 +10,8 @@
 
 我是 Duang777，希望和大家一起进步。
 
-[Landing](https://duang-landing.pages.dev) · [Blog](https://duangblog.pages.dev) · [Blog pz](https://duangblog-pz.pages.dev)
+<a href="https://duang-landing.pages.dev"><img src="assets/link-landing.svg" width="16" height="16" alt="" valign="middle" /> Landing</a>
+&nbsp;·&nbsp;
+<a href="https://duangblog.pages.dev"><img src="assets/link-blog.svg" width="16" height="16" alt="" valign="middle" /> Blog</a>
+&nbsp;·&nbsp;
+<a href="https://duangblog-pz.pages.dev"><img src="assets/link-blog-pz.svg" width="16" height="16" alt="" valign="middle" /> Blog pz</a>
