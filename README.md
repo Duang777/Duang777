@@ -15,7 +15,9 @@
 <a href="https://duangblog.pages.dev"><img src="assets/link-blog.svg" width="16" height="16" alt="" valign="middle" /> Blog</a>
 &nbsp;·&nbsp;
 <a href="https://duangblog-pz.pages.dev"><img src="assets/link-blog-pz.svg" width="16" height="16" alt="" valign="middle" /> Blog pz</a>
-&nbsp;·&nbsp;
-<a href="https://duangblog-air.pages.dev"><img src="assets/link-notes.svg" width="16" height="16" alt="" valign="middle" /> Blog daily</a>
 
-Blog daily 是额外的一份更新，只收 thinking 和最新速递。
+<br>
+
+<a href="https://duangblog-air.pages.dev"><img src="assets/blog-daily.svg" width="176" height="40" alt="Blog daily" /></a>
+
+额外的一份更新，只收 thinking 和最新速递。
