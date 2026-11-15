@@ -15,3 +15,7 @@
 <a href="https://duangblog.pages.dev"><img src="assets/link-blog.svg" width="16" height="16" alt="" valign="middle" /> Blog</a>
 &nbsp;·&nbsp;
 <a href="https://duangblog-pz.pages.dev"><img src="assets/link-blog-pz.svg" width="16" height="16" alt="" valign="middle" /> Blog pz</a>
+&nbsp;·&nbsp;
+<a href="https://duangblog-air.pages.dev"><img src="assets/link-notes.svg" width="16" height="16" alt="" valign="middle" /> 日常小记</a>
+
+日常小记是额外的一份更新，只收 thinking 和最新速递。英文默认，可以切中文。
